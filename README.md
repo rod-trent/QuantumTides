@@ -6,7 +6,7 @@ My fiction novel, Quantum Tides, is in the initial stages of writing and will be
 
 Available now for pre-order from Amazon: _coming_
 
-A free sample first chapter is now available! _coming_
+A free sample first chapter is now available! https://github.com/rod-trent/QuantumTides/blob/main/Free_Chapter/QT_Chapter_1.pdf 
 
 Check out the growing list of series images: https://github.com/rod-trent/QuantumTides/tree/main/Images 
 
