@@ -4,7 +4,7 @@ Welcome to the repository for the Quantum Tides book by <a href="https://amazon.
 
 My fiction novel, Quantum Tides, is in the initial stages of writing and will be available in paperback and Kindle/eBook in March 2025. Amazon's Kindle Unlimited members will be able to read it for free.
 
-Available now for pre-order from Amazon: _coming_
+Available now for pre-order from Amazon: https://amzn.to/3Zupk6O 
 
 A free sample first chapter is now available! https://github.com/rod-trent/QuantumTides/blob/main/Free_Chapter/QT_Chapter_1.pdf 
 
